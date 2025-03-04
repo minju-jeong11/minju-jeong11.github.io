@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "IT-Space"
 title_separator          : "-" #"데이터와 함께하는 공간"
-subtitle                 : # "데이터와 함께하는 공간"  site tagline that appears below site title in masthead
+subtitle                 : "데이터와 함께하는 공간"  # site tagline that appears below site title in masthead
 name                     : "Min-11"
 description              : # "데이터 공부를 담는 공간"
 url                      : "https://minju-jeong11.github.io"
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Min11"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "데이터와 함께하는 공간"
+  bio              : "프로덕트 데이터 분석가를 향해"
   location         : "Data"
   email            :
   links:
