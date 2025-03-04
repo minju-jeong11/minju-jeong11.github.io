@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" #"default", "air", "aqua" , "dark", "dirt"
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "IT-Space"
-title_separator          : "-" #"데이터와 함께하는 공간   "
+title_separator          : "-" #"데이터와 함께하는 공간  "
 subtitle                 : "데이터와 함께하는 공간"  # site tagline that appears below site title in masthead
 name                     : "Min-11"
 description              : # "데이터 공부를 담는 공간"
