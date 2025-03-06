@@ -93,7 +93,7 @@ author_profile: false
 
 
 
-  ### read_csv와 read_excel 함수
+### read_csv와 read_excel 함수
 
    엑셀로 생성된 데이터를 불러오는데 사용한다.    
 
@@ -159,7 +159,7 @@ author_profile: false
 
 
 
-  ### to_csv와 to_excel 함수  
+### to_csv와 to_excel 함수  
 
   데이터프레임을 내보낼때 사용한다.
 
