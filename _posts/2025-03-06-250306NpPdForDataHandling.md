@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "250306 데이터 핸들링"
-categories: coding
+categories: PythonLeaning
 tag: [python, blog, jekyll]
 toc: true
 author_profile: false
