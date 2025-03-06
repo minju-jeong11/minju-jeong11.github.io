@@ -5398,7 +5398,10 @@ df.loc[~(df['age'].between(0, 10))] #데이터프레임으로, 0~10세인 정보
   </tbody>
 </table>
 <p>1223 rows × 14 columns</p>
-</div>
+</div>  
+
+
+
 
 
 
